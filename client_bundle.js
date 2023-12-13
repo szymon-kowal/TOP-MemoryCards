@@ -333,7 +333,7 @@ eval("// Axios v1.6.2 Copyright (c) 2023 Matt Zabriskie and contributors\n\n\nfu
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		__webpack_require__.p = "";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
