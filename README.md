@@ -4,6 +4,8 @@
 
 I've made memory card game. If you want to play the game just go on the page, the goal of the game is to click as much different cards as you can ! Current score and highscore are presented in top-right corner of page.
 
+This web app is not an official Giphy application and is not endorsed by Giphy in any way.
+
 # Used:
 
 React, TypeScript, HTML, CSS, Webpack
